@@ -1,0 +1,59 @@
+    1  pwd
+    2  ls
+    3  ls -lrth
+    4  ls
+    5  pwd
+    6  ls
+    7  which java
+    8  pwd
+    9  which java
+   10  pwd
+   11  cd Desktop/
+   12  pwd
+   13  git clone -b feature/enable_coverity_10_8  https://H521820@bitbucket.honeywell.com/scm/cxo/connexo.git
+   14  ls -lrth
+   15  cd connexo/
+   16  ls
+   17  vi pom.xml 
+   18  ls
+   19  pwd
+   20  mvn -version
+   21  java -version
+   22  pwd
+   23  cd ..
+   24  du -sh connexo/
+   25  ls
+   26  cd connexo/
+   27  cd ..
+   28  pwd
+   29  ls
+   30  cd connexo/
+   31  ls
+   32  vi Jenkinsfile 
+   33  pwd
+   34  pwd
+   35  ls
+   36  cd
+   37  pwd
+   38  git clone https://github.com/krishna8229/pipeline.git
+   39  cd pipeline/
+   40  vi sample.txt
+   41  git add .
+   42  git push origin
+   43  git init
+   44  git status
+   45  git commit -m ""First Commit"
+   46  git commit -m "First Commit"
+   47  git remote add origin sample.txt
+   48  git remote add origin https://github.com/krishna8229/pipeline.git
+   49  git remote rm origin
+   50  git remote add origin https://github.com/krishna8229/pipeline.git 
+   51  git push -u origin master 
+   52  ls
+   53  ll
+   54  pwd
+   55  git push -u origin master 
+   56  git pull --rebase origin main
+   57  git push origin main
+   58  history
+   59  history > gitcommands
